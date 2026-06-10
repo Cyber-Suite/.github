@@ -1,76 +1,101 @@
-# 🌐 Cyber Suite
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=github" alt="Status Active">
-  <img src="https://img.shields.io/badge/Ecosystem-Vennx-blue?style=for-the-badge" alt="Vennx Ecosystem">
-  <img src="https://img.shields.io/badge/Focus-AI_%26_Automation-purple?style=for-the-badge" alt="Focus AI & Automation">
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,1a1a2e,16213e,0f3460&height=120&section=header&text=&fontColor=ffffff" />
 
-### 🚀 Unificando Tecnologia, Automação com IA e Presença Digital
+# CYBER SUITE
 
-A **Cyber Suite** é o braço tecnológico focado em estruturar, escalar e proteger a presença digital de empresas de forma inteligente e integrada. Nós transformamos operações eliminando gargalos, aplicando automações com Inteligência Artificial e garantindo que o marketing e a infraestrutura de TI rodem com padrão corporativo e previsibilidade.
+**Tecnologia, Automação com IA e Presença Digital — unificadas.**
 
----
+<br/>
 
-## 🛠️ Nosso Ecossistema Tecnológico
+[![Status](https://img.shields.io/badge/Status-Active-00d4aa?style=flat-square&labelColor=0d1117)](https://cybersuite.com.br)
+[![Ecosystem](https://img.shields.io/badge/Ecossistema-Vennx-5e60ce?style=flat-square&labelColor=0d1117)](https://cybersuite.com.br)
+[![Focus](https://img.shields.io/badge/Foco-IA%20%26%20Automação-a855f7?style=flat-square&labelColor=0d1117)](https://cybersuite.com.br)
 
-Desenvolvemos soluções modulares e robustas focadas em alta escalabilidade, segurança de dados e integrações fluidas:
-
-* **Back-end & Infraestrutura:** Arquiteturas robustas com gerenciamento seguro de dados e políticas rígidas de segurança (RLS).
-* **Automação & IA:** Workflows autônomos, agentes de dados e pipelines inteligentes integrados para otimizar processos operacionais.
-* **Front-end & Interfaces:** Aplicações modernas, responsivas e performáticas focadas em experiência do usuário (UX) e conversão.
-
-### 🛡️ Core Pillars da Operação
-* **Presença Digital Estratégica:** Desenvolvimento e sustentação de plataformas web institucionais e e-commerces integrados.
-* **Automação Inteligente de Comunicação:** Processos integrados com IA que reduzem o retrabalho e garantem consistência.
-* **Segurança & Infraestrutura Digital:** Controle de acessos, monitoramento ativo de operações e proteção de dados.
+</div>
 
 ---
 
-## 🧰 Tech Stack Padrão
+## O que é a Cyber Suite?
 
-Para manter a consistência, agilidade de entrega e performance em nossos projetos internos e produtos, adotamos as seguintes tecnologias:
+A **Cyber Suite** é o braço tecnológico do ecossistema Vennx. Estruturamos, escalamos e protegemos a presença digital de empresas — eliminando gargalos operacionais, aplicando automações com IA e garantindo que marketing e infraestrutura de TI rodem com previsibilidade e padrão corporativo.
+
+Não entregamos ferramentas isoladas. Entregamos uma operação digital funcional.
+
+---
+
+## Pilares
 
 <table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=typescript,react,nextjs" alt="Front-end"><br>
-      <b>Front-end</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=laravel,python" alt="Back-end"><br>
-      <b>Back-end</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=supabase,postgres" alt="Database"><br>
-      <b>Database & Auth</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=n8n,linux" alt="Automation"><br>
-      <b>Workflows & Infra</b>
-    </td>
-  </tr>
+<tr>
+<td width="33%" valign="top">
+
+### 🌐 Presença Digital
+Desenvolvimento e sustentação de plataformas web institucionais, landing pages e e-commerces com foco em performance e conversão.
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 Automação & IA
+Workflows autônomos, agentes de dados e pipelines inteligentes que eliminam retrabalho e garantem consistência operacional.
+
+</td>
+<td width="33%" valign="top">
+
+### 🛡️ Segurança & Infra
+Controle de acessos, monitoramento ativo, políticas rígidas de segurança (RLS) e proteção de dados em camadas.
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 📈 Planos & Escopo de Engenharia
+## Stack
 
-Nossos repositórios e serviços refletem as entregas estruturais do ecossistema:
-1.  **Cyber Basic:** Infraestrutura web, automação local de SEO e gestão inicial de presença digital.
-2.  **Cyber Pro:** Gestão de infraestrutura de TI, controle rigoroso de acessos/usuários e segurança de rede empresarial.
-3.  **Cyber Premium:** Camada avançada de agentes inteligentes (IA), dashboards analíticos de dados e otimização contínua de operações complexas.
+<div align="center">
+
+| Camada | Tecnologias |
+|---|---|
+| **Front-end** | TypeScript · React · Next.js |
+| **Back-end** | Laravel · Python |
+| **Dados & Auth** | Supabase · PostgreSQL |
+| **Automação & Infra** | n8n · Linux |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,laravel,python,supabase,postgres,linux&theme=dark" />
+</div>
 
 ---
 
-## 📬 Contato & Suporte
+## Planos de Engenharia
 
-Quer saber mais sobre o ecossistema ou precisa de suporte para integrações na sua organização?
+```
+Cyber Basic    →  Infraestrutura web · SEO local · Presença digital inicial
+Cyber Pro      →  Gestão de TI · Controle de acessos · Segurança de rede
+Cyber Premium  →  Agentes IA · Dashboards analíticos · Otimização contínua
+```
 
-* **Website:** [cybersuite.com.br](https://www.cybersuite.com.br)
-* **E-mail:** [contato@cybersuite.com.br](mailto:contato@cybersuite.com.br)
+Cada repositório aqui reflete uma entrega estrutural do ecossistema — nada é protótipo ou experimento descartável.
 
 ---
-<p align="center">
-  <sub>A Cyber Suite é uma solução desenvolvida pelo ecossistema Vennx.</sub>
-</p>
+
+## Contato
+
+<div align="center">
+
+🌐 **[cybersuite.com.br](https://www.cybersuite.com.br)** · ✉️ **[contato@cybersuite.com.br](mailto:contato@cybersuite.com.br)**
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Uma solução do ecossistema <strong>Vennx</strong>.</sub>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f3460,16213e,1a1a2e,0D1117&height=80&section=footer" />
